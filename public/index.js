@@ -6,7 +6,3 @@ $('.grid').isotope({
     columnWidth: 100
   }
 });
-
-
-
-
