@@ -75,16 +75,6 @@
             margin-top: -.27vh;
         }
     
-        a {
-            text-decoration:none;
-            color: rgb(255, 255, 255);
-            font-weight: 400;
-        }
-    
-        a:hover{
-            color: rgb(50, 70, 255);
-        }
-    
         .navbar{
             margin-top: 90px;
             margin-bottom: 8px;
